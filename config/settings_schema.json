@@ -118,7 +118,7 @@
         "max": 100,
         "step": 5,
         "unit": "%",
-        "label": "Border opacity",
+        "label": "Opacity",
         "default": 50
       },
       {
@@ -128,7 +128,7 @@
         "max": 10,
         "step": 1,
         "unit": "px",
-        "label": "Border width",
+        "label": "Thickness",
         "default": 1
       },
       {
